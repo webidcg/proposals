@@ -1,0 +1,2 @@
+# proposals
+webid CG proposals
